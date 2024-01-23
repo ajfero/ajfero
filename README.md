@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h2 align="left"> 💼 A little more of me </h2>
 <img align="right" width="190" src="https://firebasestorage.googleapis.com/v0/b/ajfero-c2642.appspot.com/o/business-3d-new-near-the-wall-man-2%20(1).png?alt=media&token=989bf114-4f6a-46a5-b339-8947bf096793" alt="coding" />
 
-- 🔭 I’m currently working on [@Syloper]([https://ar.ternium.com/es/?utm_source=Google&utm_medium=Search&utm_campaign=Ternium_LandingPage](https://www.syloper.com))
+- 🔭 I’m currently working on [@Syloper](https://www.syloper.com)
 
 - 👨‍💻 All of my projects are available at [ajfero.com](https://ajfero.com)
 
